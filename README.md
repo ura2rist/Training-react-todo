@@ -1,2 +1,6 @@
-# Training-react-todo
-Туду лист React
+# Задача
+---
+
+_Тест React на примере ToDo_
+
+---
